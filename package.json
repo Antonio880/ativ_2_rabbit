@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-work-queues-tutorial",
+  "version": "1.0.0",
+  "description": "RabbitMQ Work Queues tutorial implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  },
+  "keywords": ["rabbitmq", "work-queues", "tutorial"],
+  "author": "",
+  "license": "ISC"
+}
